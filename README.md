@@ -18,6 +18,12 @@ I'm a passionate Computer Science student at [The University of Adelaide](https:
   <a href="https://www.linkedin.com/in/tssniper349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="mailto:duybao21560@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/TSSniper349" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -49,12 +55,12 @@ I'm a passionate Computer Science student at [The University of Adelaide](https:
 
 ### Pinned Repositories
 
-- [**Volunteer_Connect**](https://github.com/TSSniper349/Volunteer_Connect) - A platform to connect volunteers with community projects.
-- [**ComprehensiveEmergencyGuide**](https://github.com/TSSniper349/ComprehensiveEmergencyGuide) - An HTML-based emergency guide for quick access during crises.
-- [**khkt2223**](https://github.com/TSSniper349/khkt2223) - A Dart project with unique problem-solving approaches.
+- [**Volunteer_Connect**](https://github.com/TSSniper349/Volunteer_Connect) - A platform to connect volunteers with organizations.
+- [**Comprehensive Emergency Guide**](https://github.com/TSSniper349/ComprehensiveEmergencyGuide) - An HTML-based emergency guide for quick access during crises.
+- [**Traffic or Tragic**](https://github.com/TSSniper349/Traffic_Lights_Game) - A simple relaxing game?
+- [**Ready2Eat**](https://github.com/TSSniper349/Ready2Eat) - A project aimed at revolutionizing canteen food ordering.
+- [**khkt2223**](https://github.com/TSSniper349/khkt2223) - Study for early dyslexia diagnosis on young children and develop supporting system.
 - [**maskdetectionkhkt2021**](https://github.com/TSSniper349/maskdetectionkhkt2021) - Leveraging machine learning for effective mask detection.
-- [**Memoka1**](https://github.com/TSSniper349/Memoka1) - A creative project showcasing innovative coding techniques.
-- [**Ready2Eat**](https://github.com/TSSniper349/Ready2Eat) - A project aimed at revolutionizing food management systems.
 
 *(Explore my repositories for more projects and code samples.)*
 
@@ -75,15 +81,6 @@ I'm a passionate Computer Science student at [The University of Adelaide](https:
 ## Get in Touch
 
 I'm always excited to connect and collaborate on innovative projects. Whether you have a great idea or just want to chat about tech, feel free to reach out!
-
-<p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/TSSniper349" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
