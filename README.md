@@ -1,16 +1,92 @@
-## Hi there 👋
+<!-- Profile Banner (Optional: add your custom banner image URL) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TSSniper349/TSSniper349/main/banner.png" alt="Banner" style="max-width:100%;">
+</p>
 
-<!--
-**TSSniper349/TSSniper349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tran Duy Bao Nguyen (TSSniper349) 👋
 
-Here are some ideas to get you started:
+**Student | Developer | Tech Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Computer Science student at [The University of Adelaide](https://www.adelaide.edu.au/) based in Adelaide, Australia. I love creating solutions that make a difference and am always eager to learn new technologies and collaborate on exciting projects.
+
+<p align="center">
+  <a href="https://tssniper349.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  </a>
+  <a href="https://orcid.org/0009-0005-3216-9753" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-View-orange?style=for-the-badge&logo=orcid" alt="ORCID"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tssniper349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 🎓 **Student** at [The University of Adelaide](https://www.adelaide.edu.au/)
+- 🌏 **Location:** Adelaide, Australia
+- 💡 **Interests:** Full-stack development, open-source projects, and building tech solutions that address real-world challenges.
+- 🎯 **Goals:** Enhance my coding skills, contribute to impactful projects, and continually expand my knowledge in modern technologies.
+
+---
+
+## Skills & Technologies
+
+<p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## Projects & Contributions
+
+### Pinned Repositories
+
+- [**Volunteer_Connect**](https://github.com/TSSniper349/Volunteer_Connect) - A platform to connect volunteers with community projects.
+- [**ComprehensiveEmergencyGuide**](https://github.com/TSSniper349/ComprehensiveEmergencyGuide) - An HTML-based emergency guide for quick access during crises.
+- [**khkt2223**](https://github.com/TSSniper349/khkt2223) - A Dart project with unique problem-solving approaches.
+- [**maskdetectionkhkt2021**](https://github.com/TSSniper349/maskdetectionkhkt2021) - Leveraging machine learning for effective mask detection.
+- [**Memoka1**](https://github.com/TSSniper349/Memoka1) - A creative project showcasing innovative coding techniques.
+- [**Ready2Eat**](https://github.com/TSSniper349/Ready2Eat) - A project aimed at revolutionizing food management systems.
+
+*(Explore my repositories for more projects and code samples.)*
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TSSniper349&show_icons=true&theme=radical" alt="TSSniper349 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSSniper349&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## Get in Touch
+
+I'm always excited to connect and collaborate on innovative projects. Whether you have a great idea or just want to chat about tech, feel free to reach out!
+
+<p align="center">
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/TSSniper349" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+*This README is a living document – evolving as my skills and projects grow. Let's build something awesome together!*
