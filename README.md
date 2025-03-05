@@ -1,4 +1,3 @@
-<!-- Profile Banner (Optional: add your custom banner image URL) -->
 <p align="center">
   <img src="banner.png" alt="Banner" style="max-width:100%;">
 </p>
