@@ -1,6 +1,6 @@
 <!-- Profile Banner (Optional: add your custom banner image URL) -->
 <p align="center">
-  <img src="/banner.png" alt="Banner" style="max-width:100%;">
+  <img src="banner.png" alt="Banner" style="max-width:100%;">
 </p>
 
 # Hi there, I'm Tran Duy Bao Nguyen (TSSniper349) 👋
@@ -27,7 +27,7 @@ I'm a passionate Computer Science student at [The University of Adelaide](https:
 
 - 🎓 **Student** at [The University of Adelaide](https://www.adelaide.edu.au/)
 - 🌏 **Location:** Adelaide, Australia
-- 💡 **Interests:** Full-stack development, open-source projects, and building tech solutions that address real-world challenges.
+- 💡 **Interests:** Machine Learning, Computer Vision, and building tech solutions that address real-world challenges.
 - 🎯 **Goals:** Enhance my coding skills, contribute to impactful projects, and continually expand my knowledge in modern technologies.
 
 ---
@@ -39,10 +39,9 @@ I'm a passionate Computer Science student at [The University of Adelaide](https:
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="R" src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40"/>
 </p>
 
 ---
