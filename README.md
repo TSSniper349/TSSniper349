@@ -1,6 +1,6 @@
 <!-- Profile Banner (Optional: add your custom banner image URL) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TSSniper349/TSSniper349/main/banner.png" alt="Banner" style="max-width:100%;">
+  <img src="/banner.png" alt="Banner" style="max-width:100%;">
 </p>
 
 # Hi there, I'm Tran Duy Bao Nguyen (TSSniper349) 👋
